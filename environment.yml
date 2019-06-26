@@ -3,10 +3,14 @@ name: student_project
 dependencies:
 - numpy
 - pandas
-- pandas 
+- statsmodels
 - jupyterlab
 - matplotlib
 - seaborn
 - scipy
+- IPython.display
+- plotly
 - pip:
   - grmpy
+  
+ 
