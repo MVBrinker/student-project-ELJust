@@ -8,7 +8,7 @@ dependencies:
 - matplotlib
 - seaborn
 - scipy
-- IPython.display
+- IPython
 - plotly
 - pip:
   - grmpy
