@@ -10,6 +10,6 @@ dependencies:
 - scipy
 - IPython
 - pip:
-  - plotly
+  - grmpy
   
  
