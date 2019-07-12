@@ -10,6 +10,6 @@ dependencies:
 - scipy
 - IPython
 - pip:
-  - grmpy
+  - sklearn
   
  
